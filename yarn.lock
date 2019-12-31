@@ -6189,6 +6189,11 @@ jsx-ast-utils@^2.2.1:
     array-includes "^3.0.3"
     object.assign "^4.1.0"
 
+kelvin-to-celsius@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/kelvin-to-celsius/-/kelvin-to-celsius-1.1.0.tgz#07d7fc5a494508c293ff414c7f513b5a175d43cc"
+  integrity sha512-XsQcDeGqw++A8lF9Xw/cD/+Tns+pTX/vRq4cY7ILBWBRdYa0BHTSdVg1IHyeeaY7pUKa5ME1PhOyQP7NYW12RA==
+
 killable@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/killable/-/killable-1.0.1.tgz#4c8ce441187a061c7474fb87ca08e2a638194892"

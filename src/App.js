@@ -20,7 +20,6 @@ export default () => {
       `http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&APPID=${API_KEY}`
     )
       .then(data => {
-        console.log(data.data);
         // data
         //   .json()
         //   .then(data => {
